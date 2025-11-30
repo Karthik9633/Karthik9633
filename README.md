@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Karthik B
+**A passionate Full Stack Developer || MERN || From India**
+
+Email Me 👉 ✉️ **karthikbalu5533@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Building responsive websites using HTML, CSS, and JavaScript.
+- 🌱 **I’m currently learning:** Responsive design & modern UI patterns.
+- 👯 **I’m looking to collaborate on:** Front-end web development projects.
+- 🤔 **I’m looking for help with:** Improving website performance & animations.
+- 💬 **Ask me about:** Front-end development, Responsive web design,Project ideas for beginners.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I can spend hours fixing a bug… and celebrate like I won a trophy 🏆
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hus._.of_zertwo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikbinu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikbalu5533@gmail.com) 
